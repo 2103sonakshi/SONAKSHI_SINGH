@@ -26,7 +26,7 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm currently pursuing **Bachelor of Technology in Computer Science & Engineering** at **Usha Martin University, Ranchi**.
+🎓 I'm currently Graduate **Bachelor of Technology in Computer Science & Engineering** at **Usha Martin University, Ranchi**.
 
 I enjoy building modern web applications using the **MERN Stack**, exploring **AI-powered solutions**, and continuously improving my software development skills.
 
