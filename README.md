@@ -138,8 +138,6 @@ Built a secure RBAC system implementing authentication, role-based authorization
 
 Mirza Ghalib College, Gaya
 
-**Percentage:** 67.8%
-
 **Year:** 2022
 
 ---
@@ -147,8 +145,6 @@ Mirza Ghalib College, Gaya
 ## Matriculation (CBSE)
 
 City Public School
-
-**Percentage:** 75.4%
 
 **Year:** 2020
 
