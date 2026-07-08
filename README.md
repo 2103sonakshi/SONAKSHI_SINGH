@@ -26,7 +26,7 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,mysql" />
 </p>
 
 ### Web Development
@@ -106,7 +106,7 @@ Usha Martin University, Ranchi (2022–2026)
 
 ### Intermediate (BSEB)
 
-### Matriculation
+### Matriculation (CBSE)
 
 ---
 
@@ -147,7 +147,7 @@ Usha Martin University, Ranchi (2022–2026)
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akash-kumar-3baa04250">
+  <a href="https://linkedin.com/in/sonakshi-singh-9baa72327">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
